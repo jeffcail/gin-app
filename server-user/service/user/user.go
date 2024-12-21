@@ -1,10 +1,10 @@
 package user
 
 import (
-	"github.com/jeffcail/ginframe/server-common/utils/wtime"
-	"github.com/jeffcail/ginframe/server-user/daos/account"
-	out2 "github.com/jeffcail/ginframe/server-user/out"
-	"github.com/jeffcail/ginframe/server-user/ulogger"
+	"github.com/mazezen/ginframe/server-common/utils/wtime"
+	"github.com/mazezen/ginframe/server-user/daos/account"
+	out2 "github.com/mazezen/ginframe/server-user/out"
+	"github.com/mazezen/ginframe/server-user/ulogger"
 	"go.uber.org/zap"
 )
 

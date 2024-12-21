@@ -1,11 +1,11 @@
 package driver
 
 import (
-	_gorm "github.com/jeffcail/ginframe/server-common/pkg/gorm"
-	_leveldb "github.com/jeffcail/ginframe/server-common/pkg/leveldb"
-	_mongo "github.com/jeffcail/ginframe/server-common/pkg/mongo"
-	_redis "github.com/jeffcail/ginframe/server-common/pkg/redis"
-	leveldb1 "github.com/jeffcail/leveldb"
+	_gorm "github.com/mazezen/ginframe/server-common/pkg/gorm"
+	_leveldb "github.com/mazezen/ginframe/server-common/pkg/leveldb"
+	_mongo "github.com/mazezen/ginframe/server-common/pkg/mongo"
+	_redis "github.com/mazezen/ginframe/server-common/pkg/redis"
+	leveldb1 "github.com/mazezen/leveldb"
 	"go.mongodb.org/mongo-driver/mongo"
 	"gopkg.in/redis.v5"
 	"gorm.io/gorm"

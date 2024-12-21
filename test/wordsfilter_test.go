@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/jeffcail/ginframe/server-common/utils/wordsfilter"
+	"github.com/mazezen/ginframe/server-common/utils/wordsfilter"
 	"log"
 	"testing"
 )

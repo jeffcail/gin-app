@@ -1,7 +1,7 @@
 package _rpc
 
 import (
-	"github.com/jeffcail/ginframe/server-user/global"
+	"github.com/mazezen/ginframe/server-user/global"
 	"log"
 	"net"
 	"net/http"

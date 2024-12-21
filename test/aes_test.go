@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"github.com/jeffcail/ginframe/server-common/utils/encry"
+	"github.com/mazezen/ginframe/server-common/utils/encry"
 	"testing"
 )
 

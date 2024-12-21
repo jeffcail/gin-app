@@ -2,9 +2,9 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jeffcail/ginframe/server-user/handler/auth"
-	"github.com/jeffcail/ginframe/server-user/handler/user"
-	"github.com/jeffcail/ginframe/server-user/middlewares"
+	"github.com/mazezen/ginframe/server-user/handler/auth"
+	"github.com/mazezen/ginframe/server-user/handler/user"
+	"github.com/mazezen/ginframe/server-user/middlewares"
 )
 
 // ApiRouter http api routers

@@ -2,7 +2,7 @@ package nacosRF
 
 import (
 	"fmt"
-	"github.com/jeffcail/ginframe/server-common/utils/ip"
+	"github.com/mazezen/ginframe/server-common/utils/ip"
 	"github.com/nacos-group/nacos-sdk-go/vo"
 	"log"
 )

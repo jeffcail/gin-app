@@ -1,4 +1,4 @@
-module github.com/jeffcail/ginframe
+module github.com/mazezen/ginframe
 
 go 1.18
 

@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"github.com/jeffcail/ginframe/server-common/pkg/httprequest"
+	"github.com/mazezen/ginframe/server-common/pkg/httprequest"
 	"testing"
 )
 

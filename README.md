@@ -2,10 +2,10 @@
 > 基于Go语言gin框架搭建的可快速开发的微服务脚手架
 
 
-<a href="https://github.com/jeffcail/ginframe/releases">
+<a href="https://github.com/mazezen/ginframe/releases">
     <img src="https://img.shields.io/github/release/ginframe/releases.svg" alt="GitHub release">
   </a>
-   <a href="https://github.com/jeffcail/ginframe/blob/master/LICENSE">
+   <a href="https://github.com/mazezen/ginframe/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
 
@@ -127,7 +127,7 @@ README.md
 ## 安装
 安装完之后名字ginframe可改，可根据自己的需求精简或者添加架子结构。也可直接使用
 ```shell
-git clone https://github.com/jeffcail/ginframe.git
+git clone https://github.com/mazezen/ginframe.git
 
 cd ginframe
 

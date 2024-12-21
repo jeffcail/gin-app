@@ -3,9 +3,9 @@ package servers
 import (
 	"context"
 	"fmt"
-	_const "github.com/jeffcail/ginframe/server-common/const"
-	"github.com/jeffcail/ginframe/server-common/nacosRF"
-	"github.com/jeffcail/ginframe/server-user/pb"
+	_const "github.com/mazezen/ginframe/server-common/const"
+	"github.com/mazezen/ginframe/server-common/nacosRF"
+	"github.com/mazezen/ginframe/server-user/pb"
 	"google.golang.org/grpc"
 	"sync"
 )

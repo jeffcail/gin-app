@@ -2,7 +2,7 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jeffcail/ginframe/server-user/handler"
+	"github.com/mazezen/ginframe/server-user/handler"
 )
 
 // WsRouter websocket routers

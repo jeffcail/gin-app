@@ -1,6 +1,6 @@
 package global
 
-import "github.com/jeffcail/ginframe/server-common/nacosRF"
+import "github.com/mazezen/ginframe/server-common/nacosRF"
 
 var TestConfig *GlobalConfig
 

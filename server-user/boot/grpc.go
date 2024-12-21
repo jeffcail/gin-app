@@ -2,10 +2,10 @@ package boot
 
 import (
 	"fmt"
-	"github.com/jeffcail/ginframe/server-common/const"
-	"github.com/jeffcail/ginframe/server-user/global"
-	"github.com/jeffcail/ginframe/server-user/grpcservices/services"
-	"github.com/jeffcail/ginframe/server-user/pb"
+	"github.com/mazezen/ginframe/server-common/const"
+	"github.com/mazezen/ginframe/server-user/global"
+	"github.com/mazezen/ginframe/server-user/grpcservices/services"
+	"github.com/mazezen/ginframe/server-user/pb"
 	"go.uber.org/zap"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/health"

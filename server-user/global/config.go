@@ -9,7 +9,7 @@
 package global
 
 import (
-	"github.com/jeffcail/ginframe/server-common/nacosRF"
+	"github.com/mazezen/ginframe/server-common/nacosRF"
 	"time"
 )
 

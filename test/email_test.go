@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"github.com/jeffcail/ginframe/server-common/utils/email"
+	"github.com/mazezen/ginframe/server-common/utils/email"
 	"os"
 	"testing"
 )
@@ -59,7 +59,7 @@ func TestSendQQMail(t *testing.T) {
         <p class="code">%s</p>
         <p>请注意查收!谢谢</p>
 </div>
-<h3>如果可以请给项目点个star～<a target="_blank" href="https://github.com/jeffcail/ginframe">项目地址</a> </h3>
+<h3>如果可以请给项目点个star～<a target="_blank" href="https://github.com/mazezen/ginframe">项目地址</a> </h3>
 </body>
 </html>`, "123456")
 	err := email.SendMail(from, to, title, content, mailServer, mailServerPort, mailPassword)
@@ -106,7 +106,7 @@ func TestSend126Mail(t *testing.T) {
         <p class="code">%s</p>
         <p>请注意查收!谢谢</p>
 </div>
-<h3>如果可以请给项目点个star～<a target="_blank" href="https://github.com/jeffcail/ginframe">项目地址</a> </h3>
+<h3>如果可以请给项目点个star～<a target="_blank" href="https://github.com/mazezen/ginframe">项目地址</a> </h3>
 </body>
 </html>`, "123456")
 	err := email.SendMail(from, to, title, content, mailServer, mailServerPort, mailPassword)
@@ -153,7 +153,7 @@ func TestSendEmailStartTls(t *testing.T) {
         <p class="code">%s</p>
         <p>请注意查收!谢谢</p>
 </div>
-<h3>如果可以请给项目点个star～<a target="_blank" href="https://github.com/jeffcail/ginframe">项目地址</a> </h3>
+<h3>如果可以请给项目点个star～<a target="_blank" href="https://github.com/mazezen/ginframe">项目地址</a> </h3>
 </body>
 </html>`, "123456")
 	err := email.SendGmailEmail(from, to, title, content, mailServer, mailServerPort, mailPassword)
@@ -202,7 +202,7 @@ func TestSendGmail(t *testing.T) {
         <p class="code">%s</p>
         <p>请注意查收!谢谢</p>
 </div>
-<h3>如果可以请给项目点个star～<a target="_blank" href="https://github.com/jeffcail/ginframe">项目地址</a> </h3>
+<h3>如果可以请给项目点个star～<a target="_blank" href="https://github.com/mazezen/ginframe">项目地址</a> </h3>
 </body>
 </html>`, "123456"))
 

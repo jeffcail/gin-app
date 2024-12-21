@@ -1,7 +1,7 @@
 package cachedb
 
 import (
-	"github.com/jeffcail/ginframe/server-user/core"
+	"github.com/mazezen/ginframe/server-user/core"
 )
 
 // SetUserServerFlag 初始化user服务唯一标识

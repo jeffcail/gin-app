@@ -3,8 +3,8 @@ package core
 import (
 	"context"
 	"errors"
-	_leveldb "github.com/jeffcail/ginframe/server-common/pkg/leveldb"
-	leveldb1 "github.com/jeffcail/leveldb"
+	_leveldb "github.com/mazezen/ginframe/server-common/pkg/leveldb"
+	leveldb1 "github.com/mazezen/leveldb"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

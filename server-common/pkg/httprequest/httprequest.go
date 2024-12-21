@@ -2,7 +2,7 @@ package httprequest
 
 import (
 	"bytes"
-	"github.com/jeffcail/gorequest"
+	"github.com/mazezen/gorequest"
 )
 
 type HttpRequest struct{}

@@ -1,9 +1,9 @@
 package boot
 
 import (
-	"github.com/jeffcail/ginframe/server-common/driver"
-	"github.com/jeffcail/ginframe/server-user/core"
-	"github.com/jeffcail/ginframe/server-user/ulogger"
+	"github.com/mazezen/ginframe/server-common/driver"
+	"github.com/mazezen/ginframe/server-user/core"
+	"github.com/mazezen/ginframe/server-user/ulogger"
 	"log"
 )
 

@@ -3,7 +3,7 @@
 package config
 
 import (
-	_viper "github.com/jeffcail/ginframe/server-common/pkg/viper"
+	_viper "github.com/mazezen/ginframe/server-common/pkg/viper"
 )
 
 // ParseConfig 配置文件加载

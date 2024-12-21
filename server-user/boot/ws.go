@@ -3,8 +3,8 @@ package boot
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/jeffcail/ginframe/server-user/global"
-	"github.com/jeffcail/ginframe/server-user/router"
+	"github.com/mazezen/ginframe/server-user/global"
+	"github.com/mazezen/ginframe/server-user/router"
 )
 
 // WebsocketServer websocket服务

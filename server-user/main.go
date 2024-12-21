@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jeffcail/ginframe/server-user/boot"
+	"github.com/mazezen/ginframe/server-user/boot"
 )
 
 func main() {

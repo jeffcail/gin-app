@@ -1,7 +1,7 @@
 package _leveldb
 
 import (
-	leveldb1 "github.com/jeffcail/leveldb"
+	leveldb1 "github.com/mazezen/leveldb"
 )
 
 func InitLevelDb(path string) *leveldb1.LevelDB {

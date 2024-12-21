@@ -2,9 +2,9 @@ package services
 
 import (
 	"context"
-	"github.com/jeffcail/ginframe/server-common/utils/wtime"
-	"github.com/jeffcail/ginframe/server-user/grpcservices/impl"
-	"github.com/jeffcail/ginframe/server-user/pb"
+	"github.com/mazezen/ginframe/server-common/utils/wtime"
+	"github.com/mazezen/ginframe/server-user/grpcservices/impl"
+	"github.com/mazezen/ginframe/server-user/pb"
 	"github.com/spf13/cast"
 )
 

@@ -1,8 +1,8 @@
 package boot
 
 import (
-	_uber "github.com/jeffcail/ginframe/server-common/pkg/uber"
-	"github.com/jeffcail/ginframe/server-user/ulogger"
+	_uber "github.com/mazezen/ginframe/server-common/pkg/uber"
+	"github.com/mazezen/ginframe/server-user/ulogger"
 )
 
 // InitLog init log

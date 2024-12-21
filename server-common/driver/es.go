@@ -1,7 +1,7 @@
 package driver
 
 import (
-	_elastic "github.com/jeffcail/ginframe/server-common/pkg/elastic"
+	_elastic "github.com/mazezen/ginframe/server-common/pkg/elastic"
 	"github.com/olivere/elastic"
 )
 

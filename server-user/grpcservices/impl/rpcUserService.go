@@ -1,7 +1,7 @@
 package impl
 
 import (
-	"github.com/jeffcail/ginframe/server-user/models"
+	"github.com/mazezen/ginframe/server-user/models"
 	"strconv"
 )
 

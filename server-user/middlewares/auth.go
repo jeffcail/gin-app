@@ -2,9 +2,9 @@ package middlewares
 
 import (
 	"github.com/gin-gonic/gin"
-	_jwt "github.com/jeffcail/ginframe/server-common/pkg/jwt"
-	"github.com/jeffcail/ginframe/server-common/utils/enum"
-	"github.com/jeffcail/ginframe/server-user/global"
+	_jwt "github.com/mazezen/ginframe/server-common/pkg/jwt"
+	"github.com/mazezen/ginframe/server-common/utils/enum"
+	"github.com/mazezen/ginframe/server-user/global"
 	"strings"
 	"time"
 )

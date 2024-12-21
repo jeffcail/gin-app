@@ -2,9 +2,9 @@ package auth
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/jeffcail/ginframe/server-common/utils/enum"
-	input2 "github.com/jeffcail/ginframe/server-user/input"
-	"github.com/jeffcail/ginframe/server-user/service/auth"
+	"github.com/mazezen/ginframe/server-common/utils/enum"
+	input2 "github.com/mazezen/ginframe/server-user/input"
+	"github.com/mazezen/ginframe/server-user/service/auth"
 	"github.com/spf13/cast"
 )
 

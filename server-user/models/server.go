@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/jeffcail/ginframe/server-user/core"
+	"github.com/mazezen/ginframe/server-user/core"
 	"time"
 )
 
